@@ -40,7 +40,7 @@ fi
 
 pd=$PWD
 
-steptry cd $SRC_DIR
+stepTry cd $SRC_DIR
 
 echo "======================================================"
 echo "Creating build directory"
